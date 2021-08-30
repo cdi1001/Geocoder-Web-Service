@@ -1,5 +1,5 @@
 # Geocoder-Web-Service
-A Python web application that reads CSV files and returns the longitude and latitude of a specific address.
+A Python web service that provides geo-mapping information to users. It includes address verification/correction and geo-coding of addresses based on input read from CSV files.
 
 Please follow the steps below to run this web app:
 1. Run:
